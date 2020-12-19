@@ -1,4 +1,15 @@
 # Unit 11 Express Homework: Note Taker
+I was not able to deploy on heroku, there will be an image below with my error I recieved.
+I was getting this error on the Git Hub, but i just needed to turn in something for my homework so I am turning in what I have so far.
+![](imgs/git%20hub%20not%20working.PNG)
+
+This is the Heroku Error
+
+![](imgs/heroku%20not%20working.PNG)
+
+
+
+
 
 ## Description
 
